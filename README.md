@@ -1,2 +1,19 @@
-Learning skills.
-Just a high school student.
+# Hey there, I'm Vox 👋
+
+## 🚀 About Me
+Just a high school student hacking my way through the world of coding, AI, and game development. Join me on my quest to build, break, and innovate.
+
+## 💻 What I'm Learning
+- **Programming Languages:** Python 🐍, JavaScript, and C# for those game dev quests.
+- **Game Development:** Building new worlds in Unity.
+- **Artificial Intelligence:** Teaching machines to learn, one line of code at a time.
+
+## 🌟 Highlight Projects
+ Working on a big one coming soon!
+
+## 📊 My GitHub Stats
+![Vox's GitHub stats](https://github-readme-stats.vercel.app/api?username=vox-hunter&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+- GitHub: [@vox-hunter](https://github.com/vox-hunter)
+
