@@ -7,6 +7,7 @@ Just a high school student hacking my way through the world of coding, AI, and g
 - **Programming Languages:** Python 🐍, JavaScript, and C# for those game dev quests.
 - **Game Development:** Building new worlds in Unity.
 - **Artificial Intelligence:** Teaching machines to learn, one line of code at a time.
+- **CS50P:** Learning python from Harvard University. More to learn
 
 ## 🌟 Highlight Projects
  Working on a big one coming soon!
