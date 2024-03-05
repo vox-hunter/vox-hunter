@@ -11,6 +11,7 @@ Just a high school student hacking my way through the world of coding, AI, and g
 
 ## 🌟 Highlight Projects
 Owner of [GPTdevs](http://www.gptdevs.tech)
+More coming soon!
 
 ## 📊 My GitHub Stats
 ![Vox's GitHub stats](https://github-readme-stats.vercel.app/api?username=vox-hunter&show_icons=true&theme=radical)
