@@ -10,11 +10,11 @@ Just a high school student hacking my way through the world of coding, AI, and g
 - **CS50P:** Learning python from Harvard University. More to learn
 
 ## 🌟 Highlight Projects
- Working on a big one coming soon!
-
+Owner of [GPTdevs](gptdevs.tech)
 ## 📊 My GitHub Stats
 ![Vox's GitHub stats](https://github-readme-stats.vercel.app/api?username=vox-hunter&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 - GitHub: [@vox-hunter](https://github.com/vox-hunter)
+- Email: vox@voxhunter.me
 
