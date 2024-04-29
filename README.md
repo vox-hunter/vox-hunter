@@ -11,6 +11,7 @@ Just a high school student hacking my way through the world of coding, AI, and g
 
 ## 🌟 Highlight Projects
 Owner of [GPTdevs](http://www.gptdevs.tech)
+[Currency Converter](https://github.com/vox-hunter/Currency-Converter)
 More coming soon!
 
 ## 📊 My GitHub Stats
