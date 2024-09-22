@@ -1,7 +1,7 @@
 # Hey there, I'm Vox 👋
 
 ## 🚀 About Me
-Just a high school student hacking my way through the world of coding, AI, and game development. Join me on my quest to build, break, and innovate.
+Just a high school student hacking my way through the world of coding, AI, and game development. 
 
 ## 💻 What I'm Learning
 - **Programming Languages:** Python 🐍, JavaScript, and C# for those game dev quests.
