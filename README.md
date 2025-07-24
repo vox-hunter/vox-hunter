@@ -18,5 +18,5 @@ Just a high school student hacking my way through the world of coding, AI, and g
 
 ## 📫 How to Reach Me
 - GitHub: [@vox-hunter](https://github.com/vox-hunter)
-- Email: vox@voxhunter.me
+- Email: vox@ailoom.me
 
